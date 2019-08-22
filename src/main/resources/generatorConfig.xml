@@ -70,10 +70,10 @@
                <!--enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
                <!--selectByExampleQueryId="false">-->
         <!--</table>-->
-        <table tableName="t_emp" domainObjectName="Emp" enableCountByExample="false"
-               enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
-               selectByExampleQueryId="false">
-        </table>
+        <!--<table tableName="t_emp" domainObjectName="Emp" enableCountByExample="false"-->
+               <!--enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
+               <!--selectByExampleQueryId="false">-->
+        <!--</table>-->
         <!--<table tableName="t_emp_dimission" domainObjectName="EmpDim" enableCountByExample="false"-->
                <!--enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
                <!--selectByExampleQueryId="false">-->
@@ -82,7 +82,7 @@
                <!--enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"-->
                <!--selectByExampleQueryId="false">-->
         <!--</table>-->
-        <table tableName="t_job" domainObjectName="Job" enableCountByExample="false"
+        <table tableName="user" domainObjectName="User" enableCountByExample="false"
                enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false"
                selectByExampleQueryId="false">
         </table>
