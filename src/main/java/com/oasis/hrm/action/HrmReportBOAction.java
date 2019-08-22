@@ -34,6 +34,14 @@ public class HrmReportBOAction {
 //            return new ResultJSON<>(500, Result.ERROR);
 //        }
 //    }
+
+    /**
+     * freemarker 人事报表  对应webapp下demo.ftl
+     * @param map
+     * @param beginTime
+     * @param endTime
+     * @return
+     */
     @RequestMapping("demo.do")
     public String findByTime(
             Map<String, Object> map,
